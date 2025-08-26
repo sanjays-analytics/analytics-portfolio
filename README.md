@@ -1,7 +1,7 @@
 # Sanjay Subramanyan Sivakumar — Analytics Portfolio
 
 **Focus:** SQL • Power BI • Python • Excel • Salesforce   
-**Certifications:** PL-300 (Microsoft Certified Power BI Data Analyst), Salesforce Certified Administrator, Salesforce Certified Platform Foundations, Salesforce Certified Platform App Builder, Salesforce Certified Platform Developer I, Salesforce Certified Sales Cloud Consultant 
+**Certifications:** PL-300 (Microsoft Certified Power BI Data Analyst) • Salesforce Certified - Administrator, Platform Foundations, Platform App Builder, Platform Developer I, Sales Cloud Consultant 
 **Location:** Melbourne, VIC • [LinkedIn](http://www.linkedin.com/in/sanjayssivakumar)
 
 ---
