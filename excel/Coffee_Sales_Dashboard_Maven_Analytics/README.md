@@ -17,8 +17,8 @@ The dataset covers transactions from **Jan–Jun 2023** and the goal was to iden
 ---
 
 ## 📂 Repository Structure
-- `Coffee_Shop_Dashboard.xlsx` → Final Excel dashboard  
-- `/images` → Screenshots of the dashboard (preview for quick view)  
+- `Coffee Shop Sales - Maven Analytics.xlsx` → Final Excel dashboard  
+- `/images` → Screenshots of the dashboard (preview below)  
 - `README.md` → Project documentation  
 
 ---
@@ -48,12 +48,12 @@ The dataset covers transactions from **Jan–Jun 2023** and the goal was to iden
 ---
 
 ## 📊 Dashboard Preview
-![Coffee Shop Dashboard](images/Coffee_Sales_Dashboard.jpg)
+![Coffee Shop Dashboard](images/Coffee-Sales-Dashboard.jpeg)
 
 ---
 
 ## 🚀 How to Use
-1. Download `Coffee_Shop_Dashboard.xlsx` from this folder  
+1. Download `Coffee Shop Sales - Maven Analytics.xlsx` from this folder  
 2. Open in Microsoft Excel (2016 or later recommended)  
 3. Navigate to the Dashboard tab and use slicers to filter by location, product, or month  
 
@@ -63,5 +63,3 @@ The dataset covers transactions from **Jan–Jun 2023** and the goal was to iden
 - Strengthened skills in PivotTables, PivotCharts, and dashboard design  
 - Learned how to turn raw transactional data into business-ready insights  
 - Practiced data storytelling and structuring dashboards for decision-making  
-
----
