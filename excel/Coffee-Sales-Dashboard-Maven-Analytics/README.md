@@ -48,7 +48,7 @@ The dataset covers transactions from **Jan–Jun 2023** and the goal was to iden
 ---
 
 ## 📊 Dashboard Preview
-![Coffee Shop Dashboard](excel/Coffee-Sales-Dashboard-Maven-Analytics/images/Coffee - Sales - Dashboard.jpeg)
+![Coffee Shop Dashboard](images/Coffee-Sales-Dashboard.jpeg)
 
 ---
 
